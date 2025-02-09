@@ -1,13 +1,9 @@
 # Pokemon VGC AI Competition
 
-This project is based on the framework provided for the pokemon vgc ai competition (https://gitlab.com/DracoStriker/pokemon-vgc-engine)
-
-## Battle track
-
-## VGC Track
+This project consists of creating a battle bot based on the framework provided for the Pokemon VGC AI competition (https://gitlab.com/DracoStriker/pokemon-vgc-engine), and was done as a college exam using the techniques learned during the course.
 
 ## Authors
 
-- [Riccardo Berni] (r.berni@studenti.unipi.it)
-- [Elia Boccini] (e.boccini@studenti.unipi.it)
-- [Alessandro Guerriero] (a.guerriero3@studenti.unipi.it)
+- [Elia Boccini] (eliaboccini@gmail.com)
+- [Riccardo Berni] (---)
+- [Alessandro Guerriero] (---)
