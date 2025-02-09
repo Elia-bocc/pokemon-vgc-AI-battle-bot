@@ -1,0 +1,9 @@
+Rank,Policy,Score
+1,Mixed2,39
+2,Thuder,37
+3,Hayo5,37
+4,Mixed4,36
+5,Greedy,35
+6,AlphaBeta4,34
+7,PrunedBFS,32
+8,MiniMax,30
